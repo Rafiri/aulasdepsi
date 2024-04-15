@@ -1,0 +1,5 @@
+/home/runner/aulasdepsi-1/semana13/animais/obj/Debug/net6.0/animais.csproj.AssemblyReference.cache
+/home/runner/aulasdepsi-1/semana13/animais/obj/Debug/net6.0/animais.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/aulasdepsi-1/semana13/animais/obj/Debug/net6.0/animais.AssemblyInfoInputs.cache
+/home/runner/aulasdepsi-1/semana13/animais/obj/Debug/net6.0/animais.AssemblyInfo.cs
+/home/runner/aulasdepsi-1/semana13/animais/obj/Debug/net6.0/animais.csproj.CoreCompileInputs.cache
